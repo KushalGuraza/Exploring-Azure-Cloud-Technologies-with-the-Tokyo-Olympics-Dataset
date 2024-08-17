@@ -1,0 +1,6 @@
+Activity name,Activity status,Error,Activity type,Run start,Duration,Integration runtime,User properties,Activity run ID,Log
+Teams,Succeeded,,Copy,"8/17/2024, 5:05:45 PM",13s,AutoResolveIntegrationRuntime (Central US),{},8b490d6f-33d2-4acf-bea6-dae41521fee4,
+Medals,Succeeded,,Copy,"8/17/2024, 5:05:32 PM",12s,AutoResolveIntegrationRuntime (Central US),{},26481915-bee1-49cf-9e42-5749bbd2eaf7,
+Entries_Gender,Succeeded,,Copy,"8/17/2024, 5:05:17 PM",14s,AutoResolveIntegrationRuntime (Central US),{},275aab13-ddd1-49d1-aba3-1391f845bbc7,
+Coaches,Succeeded,,Copy,"8/17/2024, 5:05:05 PM",12s,AutoResolveIntegrationRuntime (Central US),{},6c44bd48-39cb-4886-b50a-781505956305,
+Athletes,Succeeded,,Copy,"8/17/2024, 5:04:52 PM",12s,AutoResolveIntegrationRuntime (Central US),{},8264db7f-0aa0-4116-9168-3824a9e8eed2,
