@@ -3,6 +3,13 @@
 # Overview
 This repository documents my journey in learning and applying Azure cloud technologies using the 2021 Tokyo Olympics dataset. The dataset includes detailed information on over 11,000 athletes, 47 disciplines, and 743 teams, providing a rich source for data analysis.
 
+[Tokyo Olympics Dataset](https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo?resource=download/)
+
+# Architecture Diagram
+
+![Architecture](https://github.com/user-attachments/assets/da990d6a-39ee-4158-aeea-95e1200fb115)
+
+
 # Technologies Explored
 **Azure Data Lake Storage Gen2:** Utilized for storing and managing large volumes of structured and unstructured data. The dataset was ingested into Azure Data Lake Storage Gen2 to enable scalable and secure data storage.\
 **Azure Synapse Analytics:** Leveraged for big data and data warehousing solutions. I used Azure Synapse Analytics to perform complex queries and data transformations, enabling advanced analytics and insights from the Olympics dataset.\
