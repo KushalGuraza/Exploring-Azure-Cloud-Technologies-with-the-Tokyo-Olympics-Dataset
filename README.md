@@ -1,5 +1,4 @@
-# tokyo-olympics-azure-data-engineering-project
-
+# Exploring Azure Cloud Technologies with the Tokyo Olympics Dataset
 
 # Overview
 This repository documents my journey in learning and applying Azure cloud technologies using the 2021 Tokyo Olympics dataset. The dataset includes detailed information on over 11,000 athletes, 47 disciplines, and 743 teams, providing a rich source for data analysis.
