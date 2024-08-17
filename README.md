@@ -14,7 +14,7 @@ This repository documents my journey in learning and applying Azure cloud techno
 **Azure Data Lake Storage Gen2:** Utilized for storing and managing large volumes of structured and unstructured data. The dataset was ingested into Azure Data Lake Storage Gen2 to enable scalable and secure data storage.\
 **Azure Synapse Analytics:** Leveraged for big data and data warehousing solutions. I used Azure Synapse Analytics to perform complex queries and data transformations, enabling advanced analytics and insights from the Olympics dataset.\
 **Azure Data Factory:** Employed for orchestrating data workflows and automating data movement. Azure Data Factory was used to create data pipelines that efficiently ingest, prepare, and transform the data from various sources.\
-**Azure Databricks:** Applied for collaborative data processing and machine learning. With Azure Databricks, I explored data visualization techniques and performed exploratory data analysis to uncover patterns and insights within the dataset.\
+**Azure Databricks:** Applied for collaborative data processing and machine learning. With Azure Databricks, I explored data visualization techniques and performed exploratory data analysis to uncover patterns and insights within the dataset.
 
 # Key Learnings
 **Data Storage and Management:** Gained hands-on experience in managing large datasets using Azure Data Lake Storage Gen2, ensuring data is stored efficiently and securely.\
