@@ -20,7 +20,7 @@ This repository documents my journey in learning and applying Azure cloud techno
 **Data Storage and Management:** Gained hands-on experience in managing large datasets using Azure Data Lake Storage Gen2, ensuring data is stored efficiently and securely.\
 **Data Integration and Transformation:** Developed skills in creating and managing data pipelines in Azure Data Factory, facilitating seamless data integration and transformation processes.\
 **Advanced Analytics:** Enhanced my ability to perform complex data analysis using Azure Synapse Analytics, leveraging its powerful querying capabilities to derive meaningful insights.\
-**Collaborative Data Processing:** Improved proficiency in using Azure Databricks for collaborative data analysis and visualization, enabling effective teamwork and knowledge sharing.\
+**Collaborative Data Processing:** Improved proficiency in using Azure Databricks for collaborative data analysis and visualization, enabling effective teamwork and knowledge sharing.
 
 # Future Work
 **Machine Learning:** Explore machine learning models using Azure Databricks to predict outcomes and trends based on historical data.
