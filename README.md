@@ -23,4 +23,5 @@ This repository documents my journey in learning and applying Azure cloud techno
 **Collaborative Data Processing:** Improved proficiency in using Azure Databricks for collaborative data analysis and visualization, enabling effective teamwork and knowledge sharing.
 
 # Future Work
-**Machine Learning:** Explore machine learning models using Azure Databricks to predict outcomes and trends based on historical data.
+vxxa
+ bhgb bvhjgb fythjv cfytjgf fryjfvhg dytjhygfr cdytfrr dhfrtd 
